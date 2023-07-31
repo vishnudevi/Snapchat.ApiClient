@@ -9,7 +9,7 @@ namespace Snapchat.ApiClient.Entities.Api
     public class CompositeProperties
     {
         /// <summary>
-        /// Gets or sets url.
+        /// Gets or sets linked creative ids.
         /// </summary>
         [JsonProperty("creative_ids")]
 #pragma warning disable CA2227 // Collection properties should be read only
